@@ -1,10 +1,9 @@
 # nuxt-fingerprint2
 
 [![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![Build](https://github.com/abakermi/nuxt-fingerprint2/workflows/ci/badge.svg)](https://github.com/abakermi/nuxt-fingerprint2/actions?query=workflow%3Aci+branch%3Amaster)
 [![codecov](https://codecov.io/gh/abakermi/nuxt-fingerprint2/branch/master/graph/badge.svg)](https://codecov.io/gh/abakermi/nuxt-fingerprint2)
-[![License][license-src]][license-href]
+![NPM](https://img.shields.io/npm/l/nuxt-fingerprint2)
 
 > nuxt fingerprint
 
@@ -48,8 +47,7 @@ Copyright (c) Abdelhak Akermi <abdelhak.akermi@gmail.com>
 [npm-version-src]: https://img.shields.io/npm/v/nuxt-fingerprint2/latest.svg
 [npm-version-href]: https://npmjs.com/package/nuxt-fingerprint2
 
-[npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-fingerprint2.svg
-[npm-downloads-href]: https://npmjs.com/package/nuxt-fingerprint2
+
 
 [license-src]: https://img.shields.io/npm/l/nuxt-fingerprint2.svg
 [license-href]: https://npmjs.com/package/nuxt-fingerprint2
