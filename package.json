@@ -1,0 +1,42 @@
+{
+  "name": "nuxt-fingerprint2",
+  "version": "0.0.0",
+  "description": "fingerprint module for Nuxt.js",
+  "repository": "https://github.com/abakermi/nuxt-fingerprint2",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Abdelhak Akermi <abdelhak.akermi@gmail.com>"
+    }
+  ],
+  "files": [
+    "lib"
+  ],
+  "main": "lib/module.js",
+  "scripts": {
+    "dev": "nuxt example",
+    "lint": "eslint --ext .js,.vue .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "fingerprintjs2": "^2.1.2"
+  },
+  "devDependencies": {
+    "@babel/core": "latest",
+    "@babel/preset-env": "latest",
+    "@commitlint/cli": "latest",
+    "@commitlint/config-conventional": "latest",
+    "@nuxtjs/eslint-config": "latest",
+    "@nuxtjs/module-test-utils": "latest",
+    "babel-eslint": "latest",
+    "babel-jest": "latest",
+    "eslint": "latest",
+    "husky": "latest",
+    "jest": "latest",
+    "nuxt-edge": "latest",
+    "standard-version": "latest"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
